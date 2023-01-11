@@ -8,7 +8,7 @@ Serverless Functions using the
 
 ## Demo
 
-https://strawberry.vercel.app/
+https://strawberry-vercel.vercel.app/
 
 ## One-Click Deploy
 
